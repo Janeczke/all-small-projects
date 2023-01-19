@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZas6EPl+zxc5pxgOJRcG6t2FLFPgCIsdyIfnfkCScuKuosk0tIr6qUQWQl+mqbEvZyEepnlc9zUhk/qk1R+WA==",
+  "success": true,
+  "projectFilePath": "F:\\SZKOŁA 2 ROK\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
